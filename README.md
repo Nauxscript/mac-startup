@@ -28,3 +28,19 @@ Install Brew
 - 🍺 [One Switch](https://fireball.studio/oneswitch): Switch everything in one
 - 🍺 [VScode](https://code.visualstudio.com/): Needless to say
 - 🍺 [Warp](https://www.warp.dev/): The terminal for the 21st century (not say by me)
+
+## Font Family
+
+### Sources
+- Get the Fonts you need from
+- [dafont](https://www.dafont.com/)
+- [onlinewebfonts](https://www.onlinewebfonts.com/fonts)
+- [Monorope Font](https://github.com/sharanda/manrope)
+
+### Nice Font
+
+- [Fira Code](https://github.com/tonsky/FiraCode) : Use for coding
+- [Apple Garamond](https://www.dafont.com/apple-garamond.font)
+- [Love From Serif](https://www.onlinewebfonts.com/download/c3ddb99244adbafbc39209439dad58c8)
+- [Han Serif](https://source.typekit.com/source-han-serif/cn/): Use for Chinese
+- [Young Serif](https://github.com/noirblancrouge/YoungSerif)
