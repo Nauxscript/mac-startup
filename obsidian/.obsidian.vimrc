@@ -24,3 +24,7 @@ exmap unfoldAll obcommand editor:unfold-all
 nmap zR :unfoldAll
 exmap toggleFold obcommand editor:toggle-fold
 nmap za :toggleFold
+
+" Go to definition style for references
+exmap definition obcommand editor:open-link-in-new-leaf
+nmap gd :definition
