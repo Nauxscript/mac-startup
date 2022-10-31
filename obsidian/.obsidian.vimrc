@@ -13,7 +13,7 @@ exmap forward obcommand app:go-forward
 nmap <C-i> :forward
 
 exmap wiki surround [[ ]]
-map [[ :wikis
+map [[ :wiki
 
 exmap deleteFile obcommand app:delete-file
 nmap <Space>df :deleteFile
