@@ -7,15 +7,16 @@ Install Brew
 
 ## Applications
 
-🍺 mean the app can be install by homebrew 
-🍎 mean the app can be download in app store
+🍺 prefix: mean the app can be install by homebrew.
+🍎 prefix: mean the app can be download in app store.
+if both work, give priority to homebrew.
 
 - 🍺 [Alfred](https://www.alfredapp.com/): 🎩 Neo of MacOS
-- 🍺 [ClashX](https://github.com/yichengchen/clashX): 🪜 for wall（过墙梯）
+- 🍺 [ClashX Pro](https://github.com/Dreamacro/clash/releases/tag/premium): 🪜 for wall (过墙梯)
 - 🍺 [AppCleaner](https://freemacsoft.net/appcleaner/): Killer of applications
-- 🍎 [Bob](https://bobtranslate.com/): Translation software
+- 🍎 [Bob](https://bobtranslate.com/): The Best Translation Plugin in MacOS
 - 🍺 [Charles](https://www.charlesproxy.com/): Proxy Tool
-- 🍺 / 🍎 [Hidden Bar](https://github.com/dwarvesf/hidden/): Hide the garbage in top bar
+- 🍺 [Hidden Bar](https://github.com/dwarvesf/hidden/): Hide the garbage in top bar
 - 🍺 [IINA](https://iina.io/): Amazing Video player
 - 🍎 iShot: All-round screen (shot / recording) software
 - 🍺 [itsycal](https://www.mowglii.com/itsycal/): Menu bar show time 😂
