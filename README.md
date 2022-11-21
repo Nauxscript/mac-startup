@@ -45,3 +45,4 @@ if both work, give priority to homebrew.
 - [Love From Serif](https://www.onlinewebfonts.com/download/c3ddb99244adbafbc39209439dad58c8)
 - [Han Serif](https://source.typekit.com/source-han-serif/cn/): Use for Chinese
 - [Young Serif](https://github.com/noirblancrouge/YoungSerif)
+- [令东齐伋复刻体](https://www.fonts.net.cn/font-38278267111.html): Use for traditional chinese, vintage style，rough texture
