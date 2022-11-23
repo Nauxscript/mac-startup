@@ -11,7 +11,7 @@ Install Brew
 🍎 prefix: mean the app can be download in app store.
 if both work, give priority to homebrew.
 
-- 🍺 [Alfred](https://www.alfredapp.com/): 🎩 Neo of MacOS
+- 🍺 [Alfred](https://www.alfredapp.com/): 🎩 Neo of MacOS, [personal setting](./alfred)
 - 🍺 [ClashX Pro](https://github.com/Dreamacro/clash/releases/tag/premium): 🪜 for wall (过墙梯)
 - 🍺 [AppCleaner](https://freemacsoft.net/appcleaner/): Killer of applications
 - 🍎 [Bob](https://bobtranslate.com/): The Best Translation Plugin in MacOS
@@ -46,3 +46,11 @@ if both work, give priority to homebrew.
 - [Han Serif](https://source.typekit.com/source-han-serif/cn/): Use for Chinese
 - [Young Serif](https://github.com/noirblancrouge/YoungSerif)
 - [令东齐伋复刻体](https://www.fonts.net.cn/font-38278267111.html): Use for traditional chinese, vintage style，rough texture
+
+### App settings
+
+#### Input method
+
+**搜狗输入法**
+
+Skin: [Graphite 石墨](https://github.com/xiaochunjimmy/Sogou-Input-Skin#3-graphite-%E7%9F%B3%E5%A2%A8)
