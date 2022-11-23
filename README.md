@@ -53,4 +53,6 @@ if both work, give priority to homebrew.
 
 **搜狗输入法**
 
-Skin: [Graphite 石墨](https://github.com/xiaochunjimmy/Sogou-Input-Skin#3-graphite-%E7%9F%B3%E5%A2%A8)
+Skin:
+  - [muzhi](https://ssnhd.com/2022/01/26/sogou-skin/#muzhi）✅
+  - [Graphite 石墨](https://github.com/xiaochunjimmy/Sogou-Input-Skin#3-graphite-%E7%9F%B3%E5%A2%A8)
