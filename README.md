@@ -54,5 +54,6 @@ if both work, give priority to homebrew.
 **搜狗输入法**
 
 Skin:
-  - [muzhi](https://ssnhd.com/2022/01/26/sogou-skin/#muzhi）✅
+  - check in [sogou](./sogou), [浅色黑](./sogou/%E6%B5%85%E8%89%B2%E9%BB%91.mssf) is edited from [浅色橙](https://ssnhd.com/2022/01/26/sogou-skin/#%E6%B5%85%E8%89%B2%E6%A9%99)
+  - [muzhi](https://ssnhd.com/2022/01/26/sogou-skin/#muzhi）✅   this series skin
   - [Graphite 石墨](https://github.com/xiaochunjimmy/Sogou-Input-Skin#3-graphite-%E7%9F%B3%E5%A2%A8)
