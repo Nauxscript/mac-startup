@@ -47,7 +47,7 @@ if both work, give priority to homebrew.
 - [Young Serif](https://github.com/noirblancrouge/YoungSerif)
 - [令东齐伋复刻体](https://www.fonts.net.cn/font-38278267111.html): Use for traditional chinese, vintage style，rough texture
 
-### App settings
+## App settings
 
 #### Input method
 
