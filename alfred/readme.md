@@ -2,13 +2,7 @@
 
 ## Workflow
 
-- [Github](https://github.com/gharlan/alfred-github-workflow)
-- [Emoji search](https://github.com/jsumners/alfred-emoji)
-- [Localport](https://github.com/Fechin/localport)
-- [NewPath](https://github.com/vitorgalvao/alfred-workflows)
-- [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow)
-- [Visual Studio Code](https://github.com/alexchantastic/alfred-open-with-vscode-workflow)
-- [Nauxscript Alfred Workflow](https://github.com/Nauxscript/nauxscript-alfred-workflow)
+check it out [my alfred workflow recommendation](https://github.com/Nauxscript/alfred-workflow-recommendation)
 
 ## Theme 
 
